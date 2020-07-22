@@ -1,0 +1,9 @@
+*~
+*#
+*.swp
+
+__pycache__/
+../.Python
+/.cache
+.idea
+/.pytest_cache
