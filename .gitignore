@@ -6,4 +6,5 @@ __pycache__/
 ../.Python
 /.cache
 .idea
+.DS_Store
 /.pytest_cache
